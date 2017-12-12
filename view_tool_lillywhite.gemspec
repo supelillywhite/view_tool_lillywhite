@@ -6,8 +6,8 @@ require "view_tool_lillywhite/version"
 Gem::Specification.new do |spec|
   spec.name          = "view_tool_lillywhite"
   spec.version       = ViewToolLillywhite::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
+  spec.authors       = ["Supe Lillywhite"]
+  spec.email         = ["supelillywhite@gmail.com"]
 
   spec.summary       = %q{Various view specific methods for applications I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}

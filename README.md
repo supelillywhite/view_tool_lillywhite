@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install view_tool_lillywhite
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+DevcampViewTool::Renderer.copyright "Supe Lillywhite", "All rights reserved"
+```
 
 ## Development
 
